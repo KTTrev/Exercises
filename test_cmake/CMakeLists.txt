@@ -7,7 +7,7 @@ project(Hello)
 
 add_executable(
    hello
-   main.c
+   main_hello.c
 )
 
 add_executable(
